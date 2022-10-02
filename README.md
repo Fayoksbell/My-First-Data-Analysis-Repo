@@ -1,6 +1,3 @@
-#Project name:My-First-Data-Analysis-Repo
+ # Project Name:My-First-Data-Analysis-Repo
 
-
-...
-#Project Objective
 
